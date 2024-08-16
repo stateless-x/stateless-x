@@ -7,7 +7,7 @@ I am full-stack developer with a broad interest in various technologies. I focus
 ---
 
 ### 🧰 Languages and Tools
-<img align="left" alt="next" width="30px" style="padding-right:10px;" src= src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 
 <img align="left" alt="react" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  />
 
