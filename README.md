@@ -15,7 +15,7 @@ I am full-stack developer with a broad interest in various technologies. I focus
 
 <img align="left" alt="javascript" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
-<img align="left" alt="tailwind" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+<img align="left" alt="tailwind" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <img align="left" alt="html" width="40px"  style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
@@ -43,7 +43,5 @@ align="left" alt="ruby" width="40px" style="padding-right:12px;" src="https://cd
 <img align="left" alt="postgres" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 
 <img align="left" alt="linux" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-<br />
 
 #
