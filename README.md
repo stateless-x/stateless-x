@@ -1,4 +1,6 @@
-# Stateless @BrainFried 🤯
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=32&duration=1500&pause=1000&color=F7931A&center=true&vCenter=true&width=500&height=70&lines=Hello+there+%F0%9F%91%8B;I+am+Stateless+;BrainFried+%F0%9F%A4%AF" />
+</h1>
 
 **`OmniCoder`**
 
@@ -6,42 +8,28 @@ I am full-stack developer with a broad interest in various technologies. I focus
 
 ---
 
-### 🧰 Languages and Tools
-<img align="left" alt="next" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 
-<img align="left" alt="react" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"  />
+<div align="center">
+  <h3 align="center">🛠️  Languages and Tools</h3>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=next,react,typescript,javascript,html,css,tailwindcss,sass"/><br>
+  <img src="https://skillicons.dev/icons?i=python,ruby,rails,nodejs,postgres,dynamodb"/><br>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab"/><br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp"/><br>
+  <img src="https://skillicons.dev/icons?i=obsidian"/><br>
+</div>
 
-<img align="left" alt="typescript" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<br/>
 
-<img align="left" alt="javascript" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<div align="center"> 
+  <a href="mailto:purin.buriwong@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/xwanats/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="#" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-<img align="left" alt="tailwind" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-
-<img align="left" alt="html" width="40px"  style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-<img align="left" alt="css" width="40px"  style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-
-<img align="left" alt="sass" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-
-<img align="left" alt="python" width="40px"  style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img align="left" alt="node" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-
-<img 
-align="left" alt="ruby" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" />
-
-<img align="left" alt="rails" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
-
-<img align="left" alt="docker" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
-<img align="left" alt="jenkins" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />
-
-<img align="left" alt="terraform" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-
-<img align="left" alt="aws" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-<img align="left" alt="postgres" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-
-<img align="left" alt="linux" width="40px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-#
