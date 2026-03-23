@@ -1,15 +1,26 @@
+<div align="center">
+
 # Askpurin
 
-Like aspirin, except I'll probably give you more headaches.
+*Like aspirin, except I'll probably give you more headaches.*
+
+</div>
+
+---
 
 Builder. I make things that (mostly) work.
 
-**Things I'm building:**
+<br>
 
-🐾 Pawjai: pet wellness platform
+**Things I'm building**
 
-📊 Forgio: ERP for Thai SMEs
+| | |
+|---|---|
+| 🐾 [Pawjai](https://github.com/stateless-x/pawjai) | Pet wellness platform |
+| 📊 [Forgio](https://github.com/stateless-x/forgio) | ERP for Thai SMEs |
+| 🔮 Horo | Contemporary fortune telling app combining astrology with psychology |
 
-🔮 Horo: contemporary fortune telling app combining astrology with psychology
+<br>
 
 📬 askpurin@pm.me
+
